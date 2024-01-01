@@ -16,6 +16,7 @@ A powershell grabber, STILL BEING MADE Sends info to telegram.
 - Telegram Info
 - Exodus Wallet
 - Fake error
+- Clipboard
 
 ## Optioanl Features that need manual setup : 
 - Optional temporary black screen
