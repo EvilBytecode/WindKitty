@@ -14,8 +14,11 @@ A powershell grabber, STILL BEING MADE Sends info to telegram.
 - EpicGamesLauncher info and Fortnite
 - Telegram Info
 - Exodus Wallet
+
+## Optioanl Features that need manual setup : 
 - Optional temporary black screen
 - - Optional BSOD (Blue Screen of death)
+- Setup Discord Bot to decrypt discord token
 
 ## TODO:
 - Better antidebug
