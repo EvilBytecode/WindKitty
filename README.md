@@ -2,6 +2,7 @@
 A powershell grabber, STILL BEING MADE Sends info to telegram.
 
 ## NOT RELEASED YET! CURRENT FEATURES:
+- System Information: Manufacturer,Model,OS,TotalRam,GPU, IP
 - AntiDebugProcesses
 - Hides Window.
 - Switches mouse buttons
